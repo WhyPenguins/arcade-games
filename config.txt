@@ -1,3 +1,4 @@
+# Small change for demo tutorial
 #-- ARCADE MACHINE GAME CONFIG FILE --#
 #-- For THOTH TECH - Splashkit Crew - Applications Team
 #--------------------------------------------------------------------
